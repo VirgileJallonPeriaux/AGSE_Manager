@@ -13,6 +13,7 @@ Le métier d'expert en assurance a beaucoup évolué au cour des années et nota
 En effet, les dossiers de sinistres, autrefois papiers, ont depuis quelques années tendance à se dématérialiser.
 Fichiers Excel, Pdf, e-mails, photos... Un dossier est composé de beaucoup d'éléments et d'informations qu'il n'est pas toujours facile de regrouper.
 
++ completer dossier tache repetitive (tjrs mêmes champs, mêmes pdfs)
 
 
-
+Mon objectif surant ce stage sera de débuter la programmation d'un logiciel visant à simplifier la complétion des dossiers de sinistres.
