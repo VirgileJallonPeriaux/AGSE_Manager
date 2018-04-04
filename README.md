@@ -16,4 +16,4 @@ Fichiers Excel, Pdf, e-mails, photos... Un dossier est composé de beaucoup d'é
 + completer dossier tache repetitive (tjrs mêmes champs, mêmes pdfs)
 
 
-Mon objectif surant ce stage sera de débuter la programmation d'un logiciel visant à simplifier la complétion des dossiers de sinistres.
+Mon objectif durant ce stage sera de débuter la programmation d'un logiciel visant à simplifier la complétion des dossiers de sinistres. 
