@@ -1,4 +1,5 @@
-# AGSE ###(Gestion d'un dossier d'expertise)
+# AGSE
+###(Gestion d'un dossier d'expertise)
 ### Stage de 1ère année BTS SIO
 
 ## AGSE - Assistance, Gestion de Sinistres et Expertise
