@@ -29,4 +29,5 @@ Pour concevoir la base de données, je me suis appuyé sur un dossier Excel repr
 todo
 
 ![diagrammeBDD]()
+![diagrammeClasse](https://github.com/VirgileJallonPeriaux/AGSE_Manager/blob/master/CapturesEcran/diagClasseAGSE.PNG)
 
