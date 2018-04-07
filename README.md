@@ -31,3 +31,5 @@ todo
 ![diagrammeBDD]()
 ![diagrammeClasse](https://github.com/VirgileJallonPeriaux/AGSE_Manager/blob/master/CapturesEcran/diagClasseAGSE.PNG)
 
+![Présentation Interface Graphique](https://github.com/VirgileJallonPeriaux/AGSE_Manager/blob/master/CapturesEcran/VideoPresentationIHM.gif)
+
