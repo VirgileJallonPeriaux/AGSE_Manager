@@ -1,0 +1,11 @@
+c:\users\vivij\onedrive\documents\visual studio 2015\Projects\AGSE-Manager\AGSE-Manager\bin\Debug\AGSE-Manager.exe.config
+c:\users\vivij\onedrive\documents\visual studio 2015\Projects\AGSE-Manager\AGSE-Manager\obj\Debug\AGSE-Manager.csprojResolveAssemblyReference.cache
+c:\users\vivij\onedrive\documents\visual studio 2015\Projects\AGSE-Manager\AGSE-Manager\obj\Debug\AGSE_Manager.MenuPrincipal.resources
+c:\users\vivij\onedrive\documents\visual studio 2015\Projects\AGSE-Manager\AGSE-Manager\obj\Debug\AGSE_Manager.Properties.Resources.resources
+c:\users\vivij\onedrive\documents\visual studio 2015\Projects\AGSE-Manager\AGSE-Manager\obj\Debug\AGSE-Manager.csproj.GenerateResource.Cache
+c:\users\vivij\onedrive\documents\visual studio 2015\Projects\AGSE-Manager\AGSE-Manager\bin\Debug\AGSE-Manager.exe
+c:\users\vivij\onedrive\documents\visual studio 2015\Projects\AGSE-Manager\AGSE-Manager\bin\Debug\AGSE-Manager.pdb
+c:\users\vivij\onedrive\documents\visual studio 2015\Projects\AGSE-Manager\AGSE-Manager\bin\Debug\MySql.Data.dll
+c:\users\vivij\onedrive\documents\visual studio 2015\Projects\AGSE-Manager\AGSE-Manager\obj\Debug\AGSE-Manager.exe
+c:\users\vivij\onedrive\documents\visual studio 2015\Projects\AGSE-Manager\AGSE-Manager\obj\Debug\AGSE-Manager.pdb
+c:\users\vivij\onedrive\documents\visual studio 2015\Projects\AGSE-Manager\AGSE-Manager\obj\Debug\AGSE_Manager.FormDossier.resources
