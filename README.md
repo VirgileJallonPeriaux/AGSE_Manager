@@ -16,7 +16,6 @@ Mon objectif durant ce stage sera de débuter la programmation d'un logiciel vis
 
 
 Pour concevoir la base de données, je me suis appuyé sur un dossier Excel reprenant la plupart des informations nécessaires à la complétion d'un dossier.
-todo
 
 ![diagrammeBDD]()
 ![diagrammeClasse](https://github.com/VirgileJallonPeriaux/AGSE_Manager/blob/master/CapturesEcran/diagClasseAGSE.PNG)
